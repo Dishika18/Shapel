@@ -24,14 +24,14 @@ Shapel is built on a foundation of cutting-edge technology and innovation. Our t
 
 ## Video Tour
 Check out the video tour to see Shapel in action! 
-![Watch Now]()
+[Watch Now](https://drive.google.com/file/d/1qUIRO3Cfdwfk6CrdjZIPVHRJ_jvbDzVH/view?usp=sharing)
 
 ## Screenshots
 Take a look at some screenshots of the website:
 
-![Screenshot 1](link-to-screenshot1)
-![Screenshot 2](link-to-screenshot2)
-![Screenshot 3](link-to-screenshot3)
+![Screenshot 1](images/pic1.png)
+![Screenshot 2](images/pic2.png)
+![Screenshot 3](images/pic3.png)
 
 ## Join Us
 Join us on a journey of discovery and let Shapel redefine your space today. Whether you're a homeowner, business owner, or design enthusiast, we invite you to explore our website, connect with our team, and discover the endless possibilities of interior design.
