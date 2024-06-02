@@ -33,6 +33,20 @@ Take a look at some screenshots of the website:
 ![Screenshot 2](images/pic2.png)
 ![Screenshot 3](images/pic3.png)
 
+## How to Install and Use
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/yourusername/shapel.git
+
+   ```
+2. **Navigate to the Project Directory:**
+   ```
+   cd shapel
+
+   ```
+3. **Open the Website:**
+   <br> Open `index.html` in your preferred web browser to explore the Shapel website.</br>
+
 ## Join Us
 Join us on a journey of discovery and let Shapel redefine your space today. Whether you're a homeowner, business owner, or design enthusiast, we invite you to explore our website, connect with our team, and discover the endless possibilities of interior design.
 
